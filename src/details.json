@@ -1,0 +1,88 @@
+{
+    "profiles":[
+        {
+            "basics":{
+            "name":"Niharika",
+            "email":"niharika.tiyyagura@gmail.com",
+            "mobile":"+91 9876543210"
+            },
+            "education":[
+                {
+                    "degree":"b.tech-(c.s.e)",
+                    "percentage":"80%",
+                    "institute":"vvit"
+                },
+                {
+                    "degree":"intemediat-(m.p.c)",
+                    "percentage":"88%",
+                    "institute":"sri chaitanya juniour college"
+                },
+                {
+                    "degree":"ssc",
+                    "percentage":"88%",
+                    "institute":"bhashyam public school"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"programming languages",
+                    "values":["c","c++","java","python","prolog"]
+                },
+                {
+                    "type":"web technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"frame works and libraries",
+                    "values":["ReactJS"]
+                },
+                {
+                    "type":"operating systems",
+                    "values":["windows","linux","mac"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":"sharon",
+                "email":"sharonsuprabha@gmail.com",
+                "mobile":"+91 8976543210"
+                },
+                "education":[
+                    {
+                        "degree":"b.tech-(c.s.e)",
+                        "percentage":"85%",
+                        "institute":"vvit"
+                    },
+                    {
+                        "degree":"intemediat-(m.p.c)",
+                        "percentage":"97%",
+                        "institute":"sri chaitanya juniour college"
+                    },
+                    {
+                        "degree":"ssc",
+                        "percentage":"98%",
+                        "institute":"sri chaitanya school"
+                    }
+                ],
+                "skills":[
+                    {
+                        "type":"programming languages",
+                        "values":["c","c++","java","python","prolog"]
+                    },
+                    {
+                        "type":"web technologies",
+                        "values":["HTML","CSS","JavaScript"]
+                    },
+                    {
+                        "type":"frame works and libraries",
+                        "values":["ReactJS"]
+                    },
+                    {
+                        "type":"operating systems",
+                        "values":["windows","linux","mac"]
+                    }
+                ]
+        }
+    ]
+}
